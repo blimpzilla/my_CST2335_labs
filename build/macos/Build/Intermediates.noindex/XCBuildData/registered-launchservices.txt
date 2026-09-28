@@ -1,0 +1,2 @@
+/Users/blimp/dev/cst2335/my_CST2335_labs/build/macos/Build/Products/Debug/my_cst2335_labs.app
+/Users/blimp/dev/cst2335/my_CST2335_labs/build/macos/Build/Products/Debug/my_cst2335_labs.app

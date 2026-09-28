@@ -50,16 +50,34 @@
       "languageVersion": "3.11"
     },
     {
+      "name": "flutter_easy_translate",
+      "rootUri": "file:///Users/blimp/.pub-cache/hosted/pub.dev/flutter_easy_translate-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///Users/blimp/.pub-cache/hosted/pub.dev/flutter_lints-6.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.8"
     },
     {
+      "name": "flutter_localizations",
+      "rootUri": "file:///Users/blimp/dev/flutter/packages/flutter_localizations",
+      "packageUri": "lib/",
+      "languageVersion": "3.11"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/blimp/dev/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.11"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/blimp/.pub-cache/hosted/pub.dev/intl-0.20.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
     },
     {
       "name": "leak_tracker",
